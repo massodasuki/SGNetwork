@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SGNetwork</string>
+    <string name="yearDesc">YEAR :</string>
+    <string name="year">m_year</string>
+    <string name="volumeDesc">Volume</string>
+    <string name="volume">m_volume</string>
+    <string name="status">m_status</string>
+    <string name="highYear">m_high</string>
+    <string name="lowYear">m_low</string>
+
+    <string name="download">Download</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+
+</resources>
