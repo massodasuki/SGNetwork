@@ -8,9 +8,9 @@
 
 # Emulator Testing
 
-![Alt text](https://user-images.githubusercontent.com/17770615/51524575-636d0800-1e69-11e9-9b7b-a39ba1940530.png?raw=true "Increase
+![Alt text](https://user-images.githubusercontent.com/17770615/51524575-636d0800-1e69-11e9-9b7b-a39ba1940530.png?raw=true "Increase")
 
-![Alt text](https://user-images.githubusercontent.com/17770615/51534416-b56d5800-1e80-11e9-9d39-c57f27eea282.png?raw=true "Decrease
+![Alt text](https://user-images.githubusercontent.com/17770615/51534416-b56d5800-1e80-11e9-9d39-c57f27eea282.png?raw=true "Decrease")
 
 
 
