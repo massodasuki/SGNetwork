@@ -1,6 +1,6 @@
 # SGNetwork
 
-This application function is to parse JSON object into array and then process that data into information . Information that can be calculate is the total volume of between quater 1 to quater 4. Second is to identifiy and decrement happen during the year.
+This application function is to parse JSON object into array and then process that data into information . Information that can be calculate is the total volume of between quater 1 to quater 4. Second is to identifiy if any decrement happen during that year.
 
 Dataset URL : https://data.gov.sg/api/action/datastore_search?resource_id=a807b7ab-6cad-4aa6-87d0-e283a7353a0f&limit
 
