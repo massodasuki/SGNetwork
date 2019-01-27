@@ -13,4 +13,15 @@
 ![Alt text](https://user-images.githubusercontent.com/17770615/51534416-b56d5800-1e80-11e9-9d39-c57f27eea282.png?raw=true "Decrease")
 
 
+# Device Testing
+
+![Alt text](https://user-images.githubusercontent.com/17770615/51795263-50688800-221b-11e9-8eda-e1a9c0053475.png?raw=true "Increase")
+
+![Alt text](https://user-images.githubusercontent.com/17770615/51795265-59595980-221b-11e9-971a-e23fcd8693f7.png?raw=true "Decrease")
+
+
+
+
+
+
 
